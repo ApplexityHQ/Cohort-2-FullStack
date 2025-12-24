@@ -1,3 +1,10 @@
+// Let’s write some code -
+// 1. Write a function that finds the sum of two numbers
+// 2. Write another function that displays this result in a pretty format
+// 3. Write another function that takes this sum and prints it in passive tense
+
+
+
 // function sum(num1, num2) {
 //     let result = num1 + num2;
 //     return result;
@@ -19,7 +26,7 @@
 // Callback
 // a function is going as an argument to another function
 
-// Example -2 
+// Example: 2 
 // Method -1 
 // function sum(num1, num2, fnToCall) {
 //     let result = num1 + num2;

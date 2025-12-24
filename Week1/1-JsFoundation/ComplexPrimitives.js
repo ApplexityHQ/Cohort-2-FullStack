@@ -22,7 +22,7 @@ for (let i = 0; i < ages.length; i++){
 // Ugly way
 const personArr = ["alice", "sam", "neha"];
 const genderArr = ["male", "male", "female"];
-for (let i = 1; i<= personArr.length; i++){
+for (let i = 1; i<= personArr.length; i++){ // for printing males from the person arr.
     if(genderArr[i] == "male"){
         console.log(personArr[i]);
     }

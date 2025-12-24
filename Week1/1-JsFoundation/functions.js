@@ -7,8 +7,8 @@
 // 3. Return a value as an output
 // 4. You can think of them as an independent program that is supposed to do something
 //  given an input
-
 // 5. Functions CAN take other functions as input - this will confuse you (callbacks)
+
 // Let’s write some code -
 // 1. Write a function that finds the sum of two numbers
 // 2. Write another function that displays this result in a pretty format
