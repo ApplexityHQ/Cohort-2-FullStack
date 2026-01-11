@@ -1,5 +1,5 @@
 function dateMethods() {
-  const currentDate = new Date();
+   const currentDate = new Date();
   console.log("Current Date:", currentDate);
 
   // Getting various components of the date

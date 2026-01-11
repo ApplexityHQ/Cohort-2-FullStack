@@ -1,0 +1,5 @@
+Untill now we've only used other people's async functions,
+How can we create an asynchronous function of our own ?
+
+// Promise:
+It's just a class that makes callbacks and async functions slightly more readable
