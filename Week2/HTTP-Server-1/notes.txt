@@ -1,0 +1,9 @@
+# terminal
+    > npm install express
+    > npx nodemon index.js (to run the localhost, and changes reflect immdtly.)
+
+# Run on Phone
+    > Make sure you're connected to the same wifi 
+    > use: ipconfig to get ip of comp.
+    > paste ip in mobile chrome followed by port no.
+    > 192.168.31.200:3000

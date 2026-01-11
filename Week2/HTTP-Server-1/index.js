@@ -1,3 +1,7 @@
+// creating an http server
+// express
+// node default lib => no.
+
 const express = require ('express');
 const bodyParser = require ("body-parser"); 
 
@@ -6,7 +10,7 @@ const port = 3000
 
 // install nodemon, which lets you running the server without re typing the node cmd everytime you want to run the server.
 // nodemon will save the change and restart the server automatically.
-// npx nodemon index.js
+// > npx nodemon index.js
 
 //middlewares
 app.use(bodyParser.json());
@@ -36,7 +40,7 @@ app.post("/conversation", function(req, res){
 })
 
 app.get('/', function(req, res){
-  res.send('Hello World!')
+  res.send('Hello World! from HTTP server')
 })
 
 app.listen(port, () => {
