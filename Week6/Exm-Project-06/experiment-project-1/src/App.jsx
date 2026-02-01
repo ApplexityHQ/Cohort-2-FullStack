@@ -9,8 +9,7 @@ function App() {
 
   return (
     <div>
-      <button onClick={changeTitle}>Click me to change the title</button>
-      <Header title={firstTitle} />
+      <Header title="applexity"/>
       <Header title="My name is raman" />
     </div>
   )

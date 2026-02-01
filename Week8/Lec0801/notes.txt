@@ -1,0 +1,12 @@
+Slides: https://drive.google.com/drive/folders/167IVDY8xZorFWgMT0oiUT00h1kE4aw85
+
+Starting with Tailwind 
+    - Important 
+    - mostly modern websites requires this.
+    
+Project "tailwind-project"
+    > npm init vite@latest
+    > cd tailwind-project
+    > npm install
+    > npm install tailwindcss @tailwindcss/vite
+    > npm run dev
