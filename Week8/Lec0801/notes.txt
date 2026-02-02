@@ -10,3 +10,21 @@ Project "tailwind-project"
     > npm install
     > npm install tailwindcss @tailwindcss/vite
     > npm run dev
+
+Important: visit: https://storybook.js.org/ for UI dev assignment (used while working in teams)
+
+For Icons: https://heroicons.com/
+
+    > adding storybook to the project
+    > npm install @storybook/builder-vite --save-dev
+
+-> Material UI (MUI)
+    - Highly opinionated
+    - Good for hackathon projects.
+    - You can hardcode, but becomes complex
+
+
+
+
+
+
